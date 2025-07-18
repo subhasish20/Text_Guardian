@@ -1,0 +1,7 @@
+
+bnb = BernoulliNB()
+svc = SVC()
+knc = KNeighborsClassifier()
+dtc = DecisionTreeClassifier()
+lrc = LogisticRegression()
+rfc = RandomForestClassifier()
